@@ -1,7 +1,7 @@
-# FENP4 frontend-nanodegree-mobile-portfolio
+## FENP4 frontend-nanodegree-mobile-portfolio
 Udacity Front-end Nanodegree Program
 
-##To Build Project Locally
+###To Build Project Locally
 
 Fist clone the repository on your machine and then go to the root directory
 
